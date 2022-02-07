@@ -1,0 +1,19 @@
+.input {
+  border: 1px solid green;
+  display: flex;
+  flex-direction: column;
+  border-radius: 4px;
+  gap: 2px;
+}
+
+.inputSmall {
+  padding: 5px;
+}
+
+.inputMedium {
+  padding: 8px;
+}
+
+.inputLarge {
+  padding: 12px;
+}
