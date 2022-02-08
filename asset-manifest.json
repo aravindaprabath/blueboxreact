@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/blueboxreact/static/css/main.42886955.css",
-    "main.js": "/blueboxreact/static/js/main.47e116be.js",
+    "main.js": "/blueboxreact/static/js/main.7766aebf.js",
     "static/js/787.b3566f6e.chunk.js": "/blueboxreact/static/js/787.b3566f6e.chunk.js",
     "index.html": "/blueboxreact/index.html",
     "main.42886955.css.map": "/blueboxreact/static/css/main.42886955.css.map",
-    "main.47e116be.js.map": "/blueboxreact/static/js/main.47e116be.js.map",
+    "main.7766aebf.js.map": "/blueboxreact/static/js/main.7766aebf.js.map",
     "787.b3566f6e.chunk.js.map": "/blueboxreact/static/js/787.b3566f6e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.42886955.css",
-    "static/js/main.47e116be.js"
+    "static/js/main.7766aebf.js"
   ]
 }
